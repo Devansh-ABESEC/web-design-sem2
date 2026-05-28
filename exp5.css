@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background-color: transparent;
+    text-align: center;
+}
+.container {
+    width: 650px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 80px;
+    box-shadow: 0 0 10px cyan;
+}
+input {
+    padding: 8px;
+    margin: 5px;
+    border-radius: 7px;
+}
+button {
+    padding: 8px 12px;
+    margin: 5px;
+    background-color: lightcoral;
+    box-shadow:0 0 10px blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+button:hover {
+    background-color:orange;
+}
+#output {
+    margin-top: 20px;
+    text-align: left;
+}
