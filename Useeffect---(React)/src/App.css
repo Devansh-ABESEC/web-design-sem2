@@ -1,0 +1,72 @@
+/* Full page center alignment */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: transparent;
+  background: url(https://www.google.com/imgres?q=technical%20background&imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Ftroscha%2Ftroscha1601%2Ftroscha160100009%2F51771987-abstract-modern-light-technical-background.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_51771987_abstract-modern-light-technical-background.html&docid=Y-nOl1BdL1_TfM&tbnid=bwIubqZSLXnLRM&vet=12ahUKEwjkxdDXjbOUAxVZXmwGHZwVF94QnPAOegQIGRAB..i&w=1300&h=677&hcb=2&ved=2ahUKEwjkxdDXjbOUAxVZXmwGHZwVF94QnPAOegQIGRAB);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Form card */
+.form-box {
+  background-color: aquamarine;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 350px;
+}
+
+/* Heading */
+.form-box h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Labels */
+.form-box label {
+  display: block;
+  margin-bottom: 15px;
+  color: #555;
+  font-weight: 500;
+}
+
+/* Input fields */
+.form-box input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.form-box input:focus {
+  border-color: #4a90e2;
+  box-shadow: 0 0 5px rgba(74, 144, 226, 0.4);
+}
+
+/* Button */
+.form-box button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-box button:hover {
+  background-color: #357abd;
+}
