@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discount</title>
+    <link rel="stylesheet" href="dis.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar"> 
+    <div class="logo">SHOPMALL</div> 
+    <div class="nav-links"> 
+      <li><a href="home.html">Home</a></li> 
+      <li><a href="deals.html">Deals</a></li>
+    </div> 
+  </nav>
+  </header>
+    <a href="deals.html"></a>
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="shoes1.jpg" alt="Product"> 
+      <h2 class="product-title">Classic Sneakers</h2> 
+      <p class="product-desc"> Available in multiple colors.</p> 
+      <div class="price-row">
+        <span>↓25%</span>
+        <span class="price">₹975</span> 
+        <span class="old-price">₹1,299</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+  </main> 
+    <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="shoes2.jpg" alt="Product"> 
+      <h2 class="product-title">Sneakers</h2> 
+      <p class="product-desc"> Regular fit. Available in multiple colors.</p> 
+      <div class="price-row">
+        <span>↓25%</span>
+        <span class="price">₹1499</span> 
+        <span class="old-price">₹1,999</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+    <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="per1.jpg" alt="Product"> 
+      <h2 class="product-title">Splash</h2> 
+      <p class="product-desc">24X7 smells</p> 
+      <div class="price-row">
+        <span>↓25%</span>
+        <span class="price">₹750</span> 
+        <span class="old-price">₹999</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="per2.jpg" alt="Product"> 
+      <h2 class="product-title">Splash</h2> 
+      <p class="product-desc">Longlasting fragrance</p> 
+      <div class="price-row">
+        <span>↓25%</span>
+        <span class="price">₹750</span> 
+        <span class="old-price">₹999</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+  </main> 
+</body>
+</html>
