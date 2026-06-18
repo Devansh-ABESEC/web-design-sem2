@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+     <link rel="stylesheet" href="style.css"> 
+    <style>
+        body
+        {
+            p
+            {
+                b
+            {
+                color: blue;
+            }            
+        }
+        }
+    </style>
+</head>
+<body>
+    <header class="site-header">
+    <nav class="navbar"> 
+    <div class="logo">SHOPMALL</div> 
+    <div class="nav-links"> 
+      <li><a href="home.html">Home</a></li> 
+      
+    </div> 
+  </nav>
+  </header>
+    <p><em>For any queries call our customer care on:</em><b>1800XXXXXXXXXXX342</b></p>
+    <p>or</p>
+    <p><em>mail us on:</em><b>shopmallcustomercare@gmail.com</b></p>
+    
+</body>
+</html>
