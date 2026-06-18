@@ -1,0 +1,84 @@
+ <!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <title>Product Page - Simple</title> 
+  <link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+  <header class="site-header">
+    <nav class="navbar"> 
+    <div class="logo">SHOPMALL</div> 
+    <div class="nav-links"> 
+      <li><a href="home.html">Home</a></li> 
+      <li><a href="product.html">Categories</a></li> 
+      <li><a href="deals.html">Deals</a></li> 
+      
+    </div> 
+  </nav>
+  </header>
+  <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="watch1.jpg" alt="Product"> 
+      <h2 class="product-title">luxury watch</h2> 
+      <div class="price-row"> 
+        <span class="price">₹799</span> 
+        <span class="old-price">₹1,199</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="watch.jpg" alt="Product"> 
+      <h2 class="product-title">Classic luxury watch</h2> 
+      <div class="price-row"> 
+        <span class="price">₹799</span> 
+        <span class="old-price">₹1,199</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="per1.jpg" alt="Product"> 
+      <h2 class="product-title">Splash</h2> 
+
+        <span class="price">₹299</span> 
+        <span class="old-price">₹599</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="per2.jpg" alt="Product"> 
+      <h2 class="product-title">Splash</h2> 
+      <div class="price-row"> 
+        <span class="price">₹499</span> 
+        <span class="old-price">₹699</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section>
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="shoes1.jpg" alt="Product"> 
+      <h2 class="product-title">Classic Sneakers</h2> 
+      <p class="product-desc">Regular fit. Available in multiple colors.</p> 
+      <div class="price-row"> 
+        <span class="price">₹999</span> 
+        <span class="old-price">₹1,999</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+     <main class="container"> 
+    <section class="product-card"> 
+      <img class="product-image" src="shoes2.jpg" alt="Product"> 
+      <h2 class="product-title">Classic Sneakers</h2> 
+      <p class="product-desc"> Available in multiple colors.</p> 
+      <div class="price-row"> 
+        <span class="price">₹899</span> 
+        <span class="old-price">₹1,499</span> 
+      </div> 
+       <button class="add-cart">Add to Cart</button>
+    </section> 
+
+  </main> 
+</body> 
+</html>
