@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>PERSONAL RESUME</title>
+</head>
+<body>
+    <h1 align="center">Personal Resume</h1>
+    <hr>
+
+    <h2><b>Personal Details</b></h2>
+    <p>Name:<i>Devansh Singh</i></p>
+    <p>DOB:10/07/XXXX</p>
+    <p>Father's Name: Dr.D.P Singh</p>
+    <p>Mother's Name: Mrs.Neetu Singh</p>
+    <p>Contact Details:XXXX000XXX</p><br>
+    <hr>
+
+    <h3><u>Education Details</u></h3>
+    <h5>College Name: Abes Engineering</h5>
+    <p>Course: BTech</p>
+    <p>Branch: CSE</p>
+    <p>CGPA: 9.9</p>
+<hr>
+
+<h4><b>Skills</b></h4>
+<p>Web Designer</p>
+<p>Problem Solver</p>
+<p>Deal With SQL</p>
+<hr>
+
+<h6><strong>@</strong><em>CORPORATION COMPUTER SCIENCE</em></h6>
+</body>
+</html>
