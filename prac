@@ -1,0 +1,24 @@
+body{
+    background: lightgoldenrodyellow;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+.container
+{
+    justify-content:center;
+    margin: 30px auto;
+    width: 600px;
+    background-color: lightcyan;
+    padding: 20px;
+    border-radius: 12px;
+}
+.btn
+{
+    border-radius: 4px;
+    text-align: center;
+}
+btn:hover{
+    color: lightgray;
+}
